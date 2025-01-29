@@ -1,0 +1,6 @@
+city,temperature,pressure,humidity,weather,timestamp
+London,7.45,995,83,overcast clouds,2025-01-28 17:16:08.753276
+New York,2.49,1008,41,clear sky,2025-01-28 17:16:09.485270
+Paris,8.68,1000,86,light rain,2025-01-28 17:16:09.697829
+Tokyo,5.31,1009,33,few clouds,2025-01-28 17:16:10.079895
+Sydney,20.99,1017,72,broken clouds,2025-01-28 17:16:10.375415
